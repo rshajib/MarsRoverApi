@@ -6,10 +6,10 @@ Input: The certain date to fetch images and the cameras.
 
 
 
-Language: Java , JavaScript
-Framework: Spring Boot 2, Bootstrap 4 
-DataBase: MySQL
+Language: Java , JavaScript.
+Framework: Spring Boot 2, Bootstrap 4.
+DataBase: MySQL.
 
-Tool: Postman, Eclipse
-Unit Testing: JUnit 5
-Other: Hibernate, Thymelefe
+Tool: Postman, Eclipse.
+Unit Testing: JUnit 5.
+Other: Hibernate, Thymelefe.
