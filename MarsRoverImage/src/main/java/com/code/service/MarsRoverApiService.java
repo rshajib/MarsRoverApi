@@ -12,10 +12,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.coderscampus.dto.HomeDto;
-import com.coderscampus.repository.PreferencesRepository;
-import com.coderscampus.response.MarsPhoto;
-import com.coderscampus.response.MarsRoverApiResponse;
+import com.code.dto.HomeDto;
+import com.code.repository.PreferencesRepository;
+import com.code.response.MarsPhoto;
+import com.code.response.MarsRoverApiResponse;
 
 @Service
 public class MarsRoverApiService {
