@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.coderscampus.dto.HomeDto;
-import com.coderscampus.response.MarsRoverApiResponse;
-import com.coderscampus.service.MarsRoverApiService;
+import com.code.dto.HomeDto;
+import com.code.response.MarsRoverApiResponse;
+import com.code.service.MarsRoverApiService;
 
 @Controller
 public class HomeController {
