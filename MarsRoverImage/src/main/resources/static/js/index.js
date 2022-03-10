@@ -4,9 +4,6 @@ if (userId == null || userId == '') {
 	if (userId == null || userId == '') {
 		document.getElementById('createUser').value = true
 	} else {
-//		fetch('/savedPreferences?userId='+userId)
-//		  .then(response => response.json())
-//		  .then(jsonResponse => console.log(jsonResponse))
 		window.location.href = '/?userId='+userId
 	}
 }
